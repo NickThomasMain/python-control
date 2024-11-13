@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: An article about the library is available on IEEE Explore. If the Python Control Systems Library helped you in your research, please cite:
+title: The Python Control Systems Library (python-control)
+authors:
+  - family-names: Fuller, Greiner, Moore, Murray, van Paassen, Yorke
+    given-names: Stephan
+  - name: "60th IEEE Conference on Decision and Control (CDC)"
+version: 0.10.1
+date-released: "2024-08-17"
+license: BSD 3-Clause
+repository-code: "https://github.com/python-control/python-control"
